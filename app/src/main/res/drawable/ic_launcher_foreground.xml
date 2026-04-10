@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sombra suave da cruz (levemente deslocada) -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M47,21 L63,21 L63,88 L47,88 Z"/>
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M22,39 L86,39 L86,55 L22,55 Z"/>
+
+    <!-- Cruz branca — barra vertical -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,19 L63,19 L63,88 L45,88 Z"/>
+
+    <!-- Cruz branca — barra horizontal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,37 L88,37 L88,55 L20,55 Z"/>
+
+    <!-- Brilho dourado claro no centro da cruz -->
+    <path
+        android:fillColor="#33EDD06E"
+        android:pathData="M45,37 L63,37 L63,55 L45,55 Z"/>
+
+</vector>

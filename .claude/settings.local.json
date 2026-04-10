@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:liturgia.up.railway.app)",
+      "WebFetch(domain:liturgia.cancaonova.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.aelf.org)",
+      "Bash(./gradlew assembleDebug)"
+    ]
+  }
+}
